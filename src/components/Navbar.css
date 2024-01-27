@@ -1,0 +1,14 @@
+.navmain{
+    width: 100%;
+    height: 60px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 600px;
+}
+.listnav{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}

@@ -1,0 +1,17 @@
+.ptitle{
+    width: 170px;
+    text-align: center;
+    
+}
+.pimage{
+    width: 160px;
+    height: 230px;
+}
+.Pmain{
+    display: flex;
+    width: 100%;
+    margin: 100px 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15%;
+}

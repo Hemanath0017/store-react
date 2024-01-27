@@ -1,0 +1,9 @@
+.Footermain{
+    width: 100%;
+    height: 200px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
